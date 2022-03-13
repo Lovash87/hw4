@@ -9,10 +9,10 @@ public class Main {
 
         int currentNum = 0;
         while (currentNum < 10) {
-            System.out.println(++currentNum + "");}
+            System.out.println(++currentNum);}
         System.out.println();
         for (; currentNum > 0; currentNum--){
-            System.out.println(currentNum+ "");
+            System.out.println(currentNum);
         }
 
     // задание 2
